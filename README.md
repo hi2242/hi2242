@@ -25,8 +25,12 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project 💡 </h2>
     
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gathering-Organization&repo=Gathering&cache_seconds=86400&theme=github_dark" />
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=3S-CREW&repo=Chaining&cache_seconds=86400&theme=github_dark" /> 
+  <a href="https://github.com/Gathering-Organization/Gathering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gathering-Organization&repo=Gathering&cache_seconds=86400&theme=github_dark" />
+  </a>
+  <a href="https://github.com/3S-CREW/Chaining">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3S-CREW&repo=Chaining&cache_seconds=86400&theme=github_dark" />
+  </a>
 
 <br>
 
