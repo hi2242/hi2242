@@ -42,25 +42,9 @@
 <br>
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔[Python] BOJ & Solve.ac 🤔 </h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔 BOJ & Solve.ac 🤔 </h2>
     
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi2242)](https://solved.ac/hi2242)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hi2242&theme=dark)
-
-<br>
-
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔[Java] BOJ & Solve.ac 🤔 </h2>
-    
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi2242_java)](https://solved.ac/hi2242)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hi2242_java&theme=dark)
-
-<br>
-
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🤔[JavaScript] BOJ & Solve.ac 🤔 </h2>
-    
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hi2242_js)](https://solved.ac/hi2242)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hi2242_js&theme=dark)
 
 <br>
