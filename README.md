@@ -10,7 +10,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👣 History 👣 </h2>
     
 ### 🎓 Education
-**인하대학교 정보통신공학과** 주전공 `2020.03 ~`
+**인하대학교 정보통신공학과** 주전공 `2020.03 ~ 2026.08`
 
 ### 🌱 Open Source Contribution
 | 날짜 | 조직명 | 서비스명 | 관련 이슈 | 관련 PR | 비고 |
@@ -40,10 +40,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡 Project 💡 </h2>
     
   <a href="https://github.com/hi2242/WEB-Team7-Jackpot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hi2242&repo=WEB-Team7-Jackpot&cache_seconds=86400&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=hi2242&repo=WEB-Team7-Jackpot&cache_seconds=86400&theme=github_dark" />
   </a>
   <a href="https://github.com/3S-CREW/Chaining">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3S-CREW&repo=Chaining&cache_seconds=86400&theme=github_dark" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=3S-CREW&repo=Chaining&cache_seconds=86400&theme=github_dark" />
   </a>
 
 <br>
@@ -51,7 +51,7 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
     
-![hi2242's GitHub stats](https://github-readme-stats.vercel.app/api?username=hi2242&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
+![hi2242's GitHub stats](https://github-stats-extended.vercel.app/api?username=hi2242&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
 
 <br>
 
