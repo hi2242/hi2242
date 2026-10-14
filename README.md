@@ -16,8 +16,8 @@
 | 날짜 | 조직명 | 서비스명 | 관련 이슈 | 관련 PR | 비고 |
 |------|------|------|------|------|------|
 | 2025.12 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21320) | - | Issue Contribution |
-| 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21735) | [관련 PR](https://github.com/desktop/desktop/pull/21827) | 대기중 |
-| 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21736) | [관련 PR](https://github.com/desktop/desktop/pull/21821) | 대기중 |
+| 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21735) | [관련 PR](https://github.com/desktop/desktop/pull/21827) | Issue Contribution |
+| 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21736) | [관련 PR](https://github.com/desktop/desktop/pull/21851) | Issue & PR Contribution |
 | 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21819) | [관련 PR](https://github.com/desktop/desktop/pull/21820) | Issue & PR Contribution |
 | 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21828) | - | 대기중 |
 
