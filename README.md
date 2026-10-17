@@ -19,7 +19,10 @@
 | 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21735) | [관련 PR](https://github.com/desktop/desktop/pull/21827) | Issue Contribution |
 | 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21736) | [관련 PR](https://github.com/desktop/desktop/pull/21851) | Issue & PR Contribution |
 | 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21819) | [관련 PR](https://github.com/desktop/desktop/pull/21820) | Issue & PR Contribution |
-| 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21828) | - | 대기중 |
+| 2026.03 | Microsoft Github | [Github Desktop](https://github.com/desktop/desktop) | [관련 이슈](https://github.com/desktop/desktop/issues/21828) | - | 대기 중 |
+| 2026.10 | morluto | [REA](https://github.com/morluto/rea) | [관련 이슈](https://github.com/morluto/rea/issues/3798) | [관련 PR](https://github.com/morluto/rea/pull/3799) | Issue & PR Contribution |
+| 2026.10 | morluto | [REA](https://github.com/morluto/rea) | [관련 이슈](https://github.com/morluto/rea/issues/3804) | [관련 PR](https://github.com/morluto/rea/pull/3805) | 대기 중 |
+| 2026.10 | morluto | [REA](https://github.com/morluto/rea) | [관련 이슈](https://github.com/morluto/rea/issues/3820) | [관련 PR](https://github.com/morluto/rea/pull/3821) | Issue & PR Contribution |
 
 ### 🏆 Activities & Awards
 **🎓 삼성전자 DX부문 2026 S/W 알고리즘 캠프** 수료 `2026.01 ~ 2026.03`
